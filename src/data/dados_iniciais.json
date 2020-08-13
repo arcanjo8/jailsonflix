@@ -1,0 +1,221 @@
+{
+  "categorias": [
+    {
+      "titulo": "Back End",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#0000CC",
+      "link_extra": {
+        "text": "Loja virtual e aos outros cursos do Downs Master",
+        "url": "http://cursos.downsmaster.com"
+      },
+      "videos": [
+        {
+          "titulo": "1 Introdução",
+          "url": "https://www.youtube.com/watch?v=6Mtye_xR6UQ&list=PLda1Fxb5CfTIDMikvCNpwFDtbDM7YdbfN"
+        },
+        {
+          "titulo": "Curso de PHP 7 - Aula 04 - Criando Virtual Hosts",
+          "url": "https://www.youtube.com/watch?v=BPhp3hddSt8"
+        },
+        {
+          "titulo": "35 - APLICAÇÃO BACK-END COM NODE.js - CURSO DE JAVASCRIPT (MÓDULO 2) - TORNE-SE UM PROGRAMADOR",
+          "url": "https://www.youtube.com/watch?v=AHWYDpI70zQ"
+        },
+        {
+          "titulo": "☕️ Curso Java WEB Level 1 - Introdução ao desenvolvimento Java Back-end - aula 1",
+          "url": "https://www.youtube.com/watch?v=7VgWAxEkv_U"
+        },
+        {
+          "titulo": "Servidores Web - Um pouco mais do back-end de uma aplicação web",
+          "url": "https://www.youtube.com/watch?v=FT29w4L8TB8"
+        },
+        {
+          "titulo": "Curso Angular #01: Introdução",
+          "url": "https://www.youtube.com/watch?v=tPOMG0D57S0&list=PLGxZ4Rq3BOBoSRcKWEdQACbUCNWLczg2G"
+        },
+        {
+          "titulo": "Novidades do Angular v9",
+          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }        
+      ]
+    },
+    {
+      "titulo": "Front End",
+      "cor": "#0099FF",
+      "link_extra": {
+        "text": "Cursos de Front End na Alura",
+        "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwikgOSw9JXrAhUB7bUKHeWlAQEYABADGgJxbg&ae=2&ohost=www.google.com&cid=CAASEuRo-lZzoNRncL4Vz5KzxYVS1A&sig=AOD64_2RD8eWv9gIQb_qmYy5qdaRU-0kbQ&q&adurl&ved=2ahUKEwisrdmw9JXrAhWpTt8KHftNDhcQ0Qx6BAgQEAE"
+      },
+      "videos": [
+        {
+          "titulo": "O que faz uma desenvolvedora front-end?",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "Curso de HTML5 - 00 - Site Completo - by Gustavo Guanabara",
+          "url": "https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o"
+        },
+        {
+          "titulo": "Criando um site do zero com: HTML, CSS e JS - #01",
+          "url": "https://www.youtube.com/watch?v=qPYCnebQQ6U"
+        },
+        {
+          "titulo": "O que estudar para conseguir um emprego com front-end",
+          "url": "https://www.youtube.com/watch?v=HxVGCjTtzOQ"
+        }, 
+        {
+          "titulo": "CSS Grid Layout e Flexbox - Quando Utilizar",
+          "url": "https://www.youtube.com/watch?v=x-4z_u8LcGc"
+        },
+        {
+          "titulo": "COMO O HTML, CSS e JS TRABALHAM JUNTOS? - Programador Br Ep. 81",
+          "url": "https://www.youtube.com/watch?v=vj9SjHqT-4o"
+        }
+      ]
+    },
+    {
+      "titulo": "Sistema Embarcado - Microcontroladores",
+      "cor": "#CC0033",
+      "link_extra": {
+        "text": "Curso de Microcontroladores",
+        "url": "https://www.microgenios.com.br/pag-treinamento-presencial-microcontroladores-pic-programacao-c/"
+      },
+      "videos": [
+        {
+          "titulo": "Arduino é um sistema embarcado ?",
+          "url": "https://www.youtube.com/watch?v=vb9Idud45Iw"
+        },
+        {
+          "titulo": "Curso Arduino Proteus 02 - Exemplo Pisca LED",
+          "url": "https://www.youtube.com/watch?v=LQb7FwwIZFo"
+        },
+        {
+          "titulo": "Construindo um Semáforo com Arduino",
+          "url": "https://www.youtube.com/watch?v=AJOIpkK0j3c"
+        },
+        {
+          "titulo": "INTRODUÇÃO, PIC16F84A | Curso de PIC #001",
+          "url": "https://www.youtube.com/watch?v=mFP3djjwVGk&list=PLZ8dBTV2_5HQ-LrS9r1dP30h8n9sh04gh"
+        },
+        {
+          "titulo": "Como programar um Microcontrolador PIC - Fácil e Rápido",
+          "url": "https://www.youtube.com/watch?v=jSUCQe4Bj_A"
+        },
+        {
+          "titulo": "PIC - Como gravar um Microcontrolador - Tipos de Gravadores",
+          "url": "https://www.youtube.com/watch?v=lQpmTQHVr1I"
+        },
+        {
+          "titulo": "UTILIZANDO DISPLAY LCD COM MICROCONTROLADORES PIC (TEORIA E PRÁTICA) - Vídeo Aula #06",
+          "url": "https://www.youtube.com/watch?v=RNadPhRYkX8"
+        }
+      ]
+    },
+    {
+      "titulo": "Hackers",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Curso de Hacker",
+        "url": "https://computerworld.com.br/2019/03/16/5-melhores-cursos-de-hacking-etico-e-certificacoes/"
+      },
+      "videos": [
+        {
+          "titulo": "OS HACKERS MAIS PERIGOSOS DO MUNDO 2",
+          "url": "https://www.youtube.com/watch?v=F5zGmv_WaLw"
+        },
+        {
+          "titulo": "COMO SER UM HACKER: Dicas pra quem quer começar na área da segurança da informação",
+          "url": "https://www.youtube.com/watch?v=ff0llG4atYs"
+        },
+        {
+          "titulo": "Python para pentest aula01, sockets, criando um cliente",
+          "url": "https://www.youtube.com/watch?v=SQzTjjclYkE"
+        },
+        {
+          "titulo": "Primeiros Comandos no Kali Linux / Conhecendo o Sistema [ Curso Gratuito de Kali Linux ]",
+          "url": "https://www.youtube.com/watch?v=XLv7G-FKI7s"
+        },
+        {
+          "titulo": "Comandos básicos no NMAP - scanner de portas",
+          "url": "https://www.youtube.com/watch?v=1FoA2nlF3u0"
+        },
+        {
+          "titulo": "CQC 04/07/11 - Matéria com os Hackers",
+          "url": "https://www.youtube.com/watch?v=soTa7qwG014"
+        }
+      ]
+    },
+    {
+      "titulo": "Circuitos eletronicos",
+      "cor": "red",
+      "link_extra": {
+        "text": "Curso de Eletronica",
+        "url": "https://www.institutouniversal.com.br/curso-eletronica-digital/p"
+      },
+      "videos": [
+        {
+          "titulo": "12 LED Chaser (8 Effects)",
+          "url": "https://www.youtube.com/watch?v=FvugkrZgzNs"
+        },
+        {
+          "titulo": "LED Chaser using 555 and 4017 | Dancing LED | SdevElectronics",
+          "url": "https://www.youtube.com/watch?v=SHyNOOJSe98"
+        },
+        {
+          "titulo": "MONTAGENS DE CIRCUITOS ELETRÔNICOS - PISCA-PISCA",
+          "url": "https://www.youtube.com/watch?v=ezpfFfqitQo"
+        },
+        {
+          "titulo": "Police LED Flasher Circuit",
+          "url": "https://www.youtube.com/watch?v=-twYlUoIoIw"
+        },
+        {
+          "titulo": "Aprenda de Forma simples A Criar Layouts de Circuito Impresso Utilizando Proteus.",
+          "url": "https://www.youtube.com/watch?v=NaFxHezsrpg"
+        },
+        {
+          "titulo": "COMO FAZER PLACA DE CIRCUITO IMPRESSO COM CANETA RETROPROJETOR",
+          "url": "https://www.youtube.com/watch?v=NuwCG_rCyM4"
+        }
+      ]
+    },
+    {
+      "titulo": "Cursos",
+      "cor": "#CC00FF",
+      "link_extra": {
+        "text": "Cursos da Digital Innovation One",
+        "url": "https://digitalinnovation.one/"
+      },
+      "videos": [
+        {
+          "titulo": "Curso Javascript #01: Introdução ao ES6",
+          "url": "https://www.youtube.com/watch?v=BZuIEd1ghmg"
+        },
+        {
+          "titulo": "Extraindo dados da web com Python",
+          "url": "https://www.youtube.com/watch?v=QzD86JyeKXE"
+        },
+        {
+          "titulo": "Bootstrap - Aula de Introdução",
+          "url": "https://www.youtube.com/watch?v=b_kTdu5qeQc"
+        },
+        {
+          "titulo": "Consumo de API em Front-end com Javascript - Bárbara Casac",
+          "url": "https://www.youtube.com/watch?v=dvZ_GS6Db6s"
+        },
+        {
+          "titulo": "Como trabalhar remoto?",
+          "url": "https://www.youtube.com/watch?v=TaX5v27b2rw"
+        },
+        {
+          "titulo": "Simplificando o posicionamento de elementos com CSS",
+          "url": "https://www.youtube.com/watch?v=NhwQUXtCwwQ"
+        }
+      ]
+    }
+  ]
+}
